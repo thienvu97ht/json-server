@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Note FullStack"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Note FullStack"
+	}
+}

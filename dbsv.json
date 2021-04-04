@@ -1,0 +1,11 @@
+{
+    "sinhVien": [
+      {
+        "name": "Trịnh Tuấn Phong",
+        "email": "phonght@yahoo.com",
+        "phone": "0123456789",
+        "gender": "Nam",
+        "id": 1
+      }
+    ]
+  }
